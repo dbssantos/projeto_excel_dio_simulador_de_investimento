@@ -1,4 +1,4 @@
-# projeto_excel_dio_simulador_de_investimento
+# simulador-financeiro-Excel
 # 📊 Simulador Financeiro — DIO Investimentos
 
 ## 📌 Sobre o projeto
