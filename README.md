@@ -1,4 +1,7 @@
 # simulador-financeiro-Excel
+<p align="center">
+  <img src="banner.png" alt="Simulador Financeiro em Excel">
+</p>
 # 📊 Simulador Financeiro — DIO Investimentos
 
 ## 📌 Sobre o projeto
