@@ -98,7 +98,7 @@ As competências desenvolvidas podem ser aplicadas em atividades administrativas
 
 ## 👩‍💻 Autora
 
-**Débora Souza**
+**Débora Souza Santos**
 
 Estudante de Administração | Excel | Análise de Dados | Tecnologia
 
